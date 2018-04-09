@@ -46,7 +46,7 @@ public class Person implements Serializable {
 
     // Getters
 
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
@@ -78,7 +78,7 @@ public class Person implements Serializable {
         return createdAt;
     }
 
-    public Date updatedAt() {
+    public Date getUpdatedAt() {
         return updatedAt;
     }
 
