@@ -27,3 +27,5 @@
     * PUT persons/{id}: update the person's info having the given id (dni, firstName and lastName1) are required.
     * DELETE persons/{id}: delete the person with the given id.
 4. Try all the methods with Postman. Remember to include Content-Type: application/json in the Headers.
+
+## https://github.com/santiagoaldanondo/personapi
